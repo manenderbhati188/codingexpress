@@ -1,0 +1,26 @@
+.contact-us{
+    display: flex;
+    justify-content: center;
+    font-size:2rem ;
+}
+.form input{
+    border: 1px solid black;
+}
+.form label{
+font-size: 1.1rem;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding: 0px 8px;
+}
+.caintainer{
+    width: 95%;
+    margin-left: 5px;
+}
+#exampleFormControlTextarea1{
+    border: 1px solid black;
+}
+
